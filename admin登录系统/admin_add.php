@@ -1,5 +1,4 @@
 <?php
-
 include_once 'include/conn.php';
 ?>
 <!doctype html>
